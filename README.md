@@ -9,7 +9,7 @@ npm install
 # or
 yarn install
 
-#then
+# then
 
 npm run dev
 # or
