@@ -1,4 +1,4 @@
-###Jankova cvičná maturita
+# Jankova cvičná maturita
 
 ## Getting Started
 
